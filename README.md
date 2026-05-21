@@ -8,7 +8,6 @@ Features
 * **Admin Dashboard:** A clean dashboard table to see everything clearly.
 
 Technologies Used
-* **Java & JSP** (Backend logic and web pages)
-* **MySQL** (Database to store data)
-* **Bootstrap** (For a clean and neat design)
-* **Eclipse & Tomcat Server** (Development tools)
+* jsp and servlet and jdbc
+* MySQL (Database to store data)
+* Eclipse & Tomcat Server(Development tools)
